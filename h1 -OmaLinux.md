@@ -2,19 +2,32 @@
 
 ## x) Lue ja tiivistä
 ### Raportin kirjoittaminen
+##### (https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
 - 
 ### What is Free Software?
+##### (https://www.gnu.org/philosophy/free-sw.html)
+-
 
-## Asennus
-### Kolmas kerta toden sanoo, niin myös Linuxin asentamisessa. Tämänhän osaa kohta jo unissaan... 
+## a) Asenna Linux virtuaalikoneeseen
+#### Kolmas kerta toden sanoo, niin myös Linuxin asentamisessa. Tämänhän osaa kohta jo unissaan... 
 
+### Koneen tiedot
+- Device: X1 Carbon 5th Gen - Kabylake (Type 20HR, 20HQ) Laptop (ThinkPad) - Type 20HQ
+- Serial Number: PF105Q96
+- Processor:	Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz   2.71 GHz
+- Installed RAM:	8,00 GB (7,84 GB usable)
+- Storage: 237GB
+- System type:	64-bit operating system, x64-based processor
+- Bios Version: N1MET37W 1.22
+
+### Asennus
 Aloitin tehtävän latamaalla koneelleni (Lenovo) Virtualboxin. Asennus sujui nopeasti ja sovelluksen avattuani pääsin luomaan virtuaalikoneen. Virtuaalikoneen luominen alkoi kohdasta "New", jonka jälkeen avautui "Create Virtual Machine" -ikkuna. Siirryin ikkunan alareunasta Expert Modeen, ja aloin täyttämään tarvittavia tietoja. Näihin tietoihin lukeutui mm. nimitiedot ja käyttöjärjestelmä sekä laitteistoon ja kovalevyyn liittyvät asetukset. 
 
 Kun olin täyttänyt tarvittavat tiedot, loin virtuaalikoneen klikkaamalla painiketta "Finish".
 
 Seuraavaksi siirryin "Settings" -kohtaan Virtualbox Managerin kautta  ja valitsin kohdan "Storage". Valitsin "Empty" CD-levyn ja edelleen kohasta "Attributes" painoin uudestaan CD-levyä. Tähän kohtaan valitsin "debian-live..." -tiedoston ja klikkasin sen jälkeen kohdasta "OK" hyväksyäkseni muutokset.
 
-## Käynnistys
+### Käynnistys
 
 Asennuksen jälkeen siirryin virtuaalikoneeni käynnistysvaiheeseen. Virtuaalikoneen käynnistäminen tapahtui painamalla kohtaa "Start". Ruudulle avautuvasta "Boot Menu" -kohdasta valitsin "Live system (amd64)" vaihtoehdon. Valinnan jälkeen pääsin ensimmäistä kertaa Linuxini työpöydälle. 
 
