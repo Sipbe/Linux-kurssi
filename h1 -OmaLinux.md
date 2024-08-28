@@ -1,5 +1,10 @@
 # h1 - Oma Linux
 
+## x) Lue ja tiivistä
+### Raportin kirjoittaminen
+- 
+### What is Free Software?
+
 ## Asennus
 
 Aloitin tehtävän latamaalla koneelleni (Lenovo) Virtualboxin. Asennus sujui nopeasti ja sovelluksen avattuani pääsin luomaan virtuaalikoneen. Virtuaalikoneen luominen alkoi kohdasta "New", jonka jälkeen avautui "Create Virtual Machine" -ikkuna. Siirryin ikkunan alareunasta Expert Modeen, ja aloin täyttämään tarvittavia tietoja. Näihin tietoihin lukeutui mm. nimitiedot ja käyttöjärjestelmä sekä laitteistoon ja kovalevyyn liittyvät asetukset. 
