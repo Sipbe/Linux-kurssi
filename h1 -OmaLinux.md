@@ -39,6 +39,7 @@ Virtualboxin asennus sujui nopeasti ja sovelluksen avattuani pääsin luomaan vi
 <img width="680" alt="Linux4" src="https://github.com/user-attachments/assets/5ebbb98d-8ca7-4f26-b8a1-ef51496bd121">
 <img width="680" alt="Linux5" src="https://github.com/user-attachments/assets/eb94d394-aee0-4c97-b6a9-d49290f06c87">
 <img width="676" alt="Linux6" src="https://github.com/user-attachments/assets/ec517c62-d625-498a-bc63-142d29f4178a">
+
 Kun olin täyttänyt tarvittavat tiedot, loin virtuaalikoneen klikkaamalla painiketta "Finish".
 
 Seuraavaksi siirryin "Settings" -kohtaan Virtualbox Managerin kautta  ja valitsin kohdan "Storage". Valitsin "Empty" CD-levyn ja edelleen kohasta "Attributes" painoin uudestaan CD-levyä. Tähän kohtaan valitsin "debian-live..." -tiedoston ja klikkasin sen jälkeen kohdasta "OK" hyväksyäkseni muutokset.
