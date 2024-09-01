@@ -13,7 +13,7 @@
 
 ## Komentorivi-harjoitusten aloitus
 
-Aloitin tehtävän käynnistämällä edellisessä tehtävässä luodun virtuaalikoneen. Sen jälkeen siirryin käyttöjärjestelmästä jo valmiiksi löytyvään terminaaliohjelmaan. Ensimmäinen komentoni $ sudo apt-get update
+Aloitin harjoitus 2:n käynnistämällä edellisessä tehtävässä luodun virtuaalikoneen. Sen jälkeen siirryin käyttöjärjestelmästä jo valmiiksi löytyvään terminaaliohjelmaan. Ensimmäinen komentoni $ sudo apt-get update
 
 ![Linux19](https://github.com/user-attachments/assets/b43357b5-8951-483c-9c75-dc63a3c7f0d1)
 
