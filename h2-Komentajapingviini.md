@@ -2,6 +2,13 @@
 
 ## x) Lue ja tiivistä
 
+### Command Line Basics Revisited
+https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
+
+- Linuxin komentorivi on syntynyt jopa ennen internettiä ja se on jokapäiväiseen käyttöön erinomainen
+- Linuxin komentoriviä kuvaillaan käteväksi, nopeaksi, ilmeikkääksi sekä helpoksi automatisoida
+- Pääasiassa Linuxin komentorivissä pärjää muutamilla komennoilla, jotka on hyvä opetella ulkoa
+
 ### Koneen tiedot
 - Device: X1 Carbon 5th Gen - Kabylake (Type 20HR, 20HQ) Laptop (ThinkPad) - Type 20HQ
 - Serial Number: PF105Q96
@@ -29,10 +36,23 @@ Pakettilistan päivityksen jälkeen siirryin suorittamaan Micron asennuksen. Kys
 
 ## b) Apt
 
+Seuraavaksi sain valita kolme itselle entuudstaan vierasta komentoriviohjelmaa. Päätin kokeilla asentaa kaikki kolme ohjelmaa samalla kertaa yhdellä komennolla. Ohjelmiksi valikoituivat Figlet, CMatrix sekä Aafire. Näiden kolmen ohjelman saman aikaiseen asentamiseen käytin komentoa:
+
+#### $ sudo apt-get -y install libaa-bin cmatrix figlet
+
+Komennon avulla asennus onnistui ja asennetut ohjelmat näyttivät seuraavanlaisilta:
+
 ### Figlet
+
+![Screenshot 2024-09-03 173240](https://github.com/user-attachments/assets/5dc5b136-55e1-4677-a657-8781decf8371)
 
 ### CMatrix
 
+![Screenshot 2024-09-03 173420](https://github.com/user-attachments/assets/8a4b6fc9-f623-4d23-8a55-79e8027dcb3e)
+
+### Aafire
+
+![Screenshot 2024-09-03 174231](https://github.com/user-attachments/assets/23e796bd-8363-4067-9808-159f4b3c6b00)
 
 ## c) FHS
 
