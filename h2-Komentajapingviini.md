@@ -20,6 +20,8 @@ https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%
 
 ## Komentorivi-harjoitusten aloitus
 
+Tehtävänanto: https://terokarvinen.com/linux-palvelimet/
+
 Aloitin harjoitus 2:n käynnistämällä edellisessä tehtävässä luodun virtuaalikoneen. Sen jälkeen siirryin käyttöjärjestelmästä jo valmiiksi löytyvään terminaaliohjelmaan. Ensimmäisen' päivitin pakettilistan, jotta järjetelmä on varmasti ajan tasalla. Pakettilistan päivityksen tein komennolla:
 
 #### $ sudo apt-get update
