@@ -8,8 +8,11 @@ https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%
 - Linuxin komentorivi on syntynyt jopa ennen internettiä ja se on jokapäiväiseen käyttöön erinomainen
 - Linuxin komentoriviä kuvaillaan käteväksi, nopeaksi, ilmeikkääksi sekä helpoksi automatisoida
 - Pääasiassa Linuxin komentorivissä pärjää muutamilla komennoilla, jotka on hyvä opetella ulkoa
+- Yleisimpiä liikkumiseen käytetettäviä komennot ovat mm. "pwd", "ls" sekä "cd..."
+- SSH mahdollistaa etäkäytön, jolla voidaan ottaa salattu yhteys järjestelmästä toiseen
+- Tiedostojen etsimiseen Linuxissa käytetään vain muutamaa komentoa, jotka ovat samat kaikissa Linuxin järjestelmissä
 
-### Koneen tiedot
+## Koneen tiedot
 - Device: X1 Carbon 5th Gen - Kabylake (Type 20HR, 20HQ) Laptop (ThinkPad) - Type 20HQ
 - Serial Number: PF105Q96
 - Processor:	Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz   2.71 GHz
