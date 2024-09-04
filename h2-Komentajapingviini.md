@@ -59,9 +59,8 @@ Komennon avulla asennus onnistui ja asennetut ohjelmat näyttivät seuraavanlais
 
 ![Screenshot 2024-09-03 174231](https://github.com/user-attachments/assets/23e796bd-8363-4067-9808-159f4b3c6b00)
 
-Bonuksena kokeilin vielä Fortune-nimistä ohjelmaa, jonka tarkoituksena oli antaa satunnainen päivän "quote". Ohjelman olisi pitänyt syöttää teksti englanniksi, mutta jostain syystä omalla kohdalla tekstit olivat italiaksi.
-
 ### Fortune
+Bonuksena kokeilin vielä Fortune-nimistä ohjelmaa, jonka tarkoituksena oli antaa satunnainen päivän "quote". Ohjelman olisi pitänyt syöttää teksti englanniksi, mutta jostain syystä omalla kohdalla tekstit olivat italiaksi.
 
 ![Screenshot 2024-09-04 182541](https://github.com/user-attachments/assets/8a8ab4fc-e3bc-493b-a6da-8b61b204b7c3)
 
