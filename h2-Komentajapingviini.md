@@ -41,7 +41,7 @@ Pakettilistan päivityksen jälkeen siirryin suorittamaan Micron asennuksen. Kys
 
 ## b) Apt
 
-Seuraavaksi sain valita kolme itselle entuudstaan vierasta komentoriviohjelmaa. Päätin kokeilla asentaa kaikki kolme ohjelmaa samalla kertaa yhdellä komennolla. Ohjelmiksi valikoituivat Figlet, CMatrix sekä Aafire. Näiden kolmen ohjelman saman aikaiseen asentamiseen käytin komentoa:
+Seuraavaksi sain valita kolme itselle entuudestaan vierasta komentoriviohjelmaa. Päätin kokeilla asentaa kaikki kolme ohjelmaa samalla kertaa yhdellä komennolla. Ohjelmiksi valikoituivat Figlet, CMatrix sekä Aafire. Näiden kolmen ohjelman saman aikaiseen asentamiseen käytin komentoa:
 
 #### $ sudo apt-get -y install libaa-bin cmatrix figlet
 
