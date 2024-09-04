@@ -59,6 +59,8 @@ Komennon avulla asennus onnistui ja asennetut ohjelmat näyttivät seuraavanlais
 
 ![Screenshot 2024-09-03 174231](https://github.com/user-attachments/assets/23e796bd-8363-4067-9808-159f4b3c6b00)
 
+Komentoriviohjelmat löytyivät sivustolta: https://www.tecmint.com
+
 ## c) FHS
 
 Seuraavaksi siirryin kansioiden pariin. 
