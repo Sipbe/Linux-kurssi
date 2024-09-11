@@ -30,7 +30,7 @@ https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-
 
 Localhostin testaus ei tuottanut haluttua lopputulosta ei sitten millään. 
 
-Apache2:n asennus sujui mutkattomasti ja testasin myös, että se on toiminnassa. Tässä kohtaa kaikki vaikutti vielä olevan kuten pitääkin. Apache2:n asennukseen käytin seuraavaa komentoa:
+Aloitin Apache2:n asennuksen tutustumalla siihen liittyviin ohjeistuksiin. Löysnkin netistä asenukkseen ohjeistuksen (https://reintech.io/blog/installing-apache-on-debian-12-step-by-step-guide), jonka pohjalta tein asennuksen. Apache2:n asennus sujui mutkattomasti ja testasin myös, että se on toiminnassa. Tässä kohtaa kaikki vaikutti vielä olevan kuten pitääkin. Apache2:n asennukseen käytin seuraavaa komentoa:
 
 #### sudo apt-get -y install apache2
 
