@@ -32,7 +32,7 @@ https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-exa
 
 Apuna vuokrauksessa Teron ohjeet: https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/
 
-14.9.2024 lähdin vuokraamaan palvelinta GitHub Educationin kautta. GitHub Educationin sivuilta siirryin linkin kautta DigitalOceanin sivuille ja kirjauduin isään käyttäen GitHub:in tunnuksia. Rekisteröintiin vaadittiin maksukortin tiedot ja se onnistui ongelmitta. Siirryin sivun vasemmasta laidasta kohtaan "Billing", mutta jostain syystä sieltä puuttui GitHub Educationin Student Pack. Siispä jouduin erikseen lähteä tekemään hakemusta Student Packin saamiseksi GitHub Educationin sivulta.
+14.9.2024 lähdin vuokraamaan palvelinta GitHub Educationin kautta. GitHub Educationin sivuilta siirryin linkin kautta DigitalOceanin sivuille ja kirjauduin sisään käyttäen GitHub:in tunnuksia. Rekisteröintiin vaadittiin maksukortin tiedot ja se onnistui ongelmitta. Siirryin sivun vasemmasta laidasta kohtaan "Billing", mutta jostain syystä sieltä puuttui GitHub Educationin Student Pack. Siispä jouduin erikseen lähteä tekemään hakemusta Student Packin saamiseksi GitHub Educationin sivulta.
 
 Hakemuksen teon aloitin käymällä läpi alla näkyvät ohjeet:
 
