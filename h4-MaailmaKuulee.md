@@ -6,11 +6,18 @@
 
 https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/
 
+- Ei vuokrata vain palvelinta, vaan myös domain nimi palveluntarjoalta
+- Suojataan palvelin palomuurilla. Ensin reikä ssh-palvelimelle!
+- Asenetaan apache-weppipalvelin
+- Päivitetään palvelimen kaikki ohjelmat
 
 ### First Steps on a New Virtual Private Server - an Example on DigitalOcean
 
 https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/
 
+- Hyvät salasanat!
+- Älä jumita vanhassa, vaan päivitä paketit!
+- Yksinkertaista
 
 ## Koneen tiedot
 - Device: X1 Carbon 5th Gen - Kabylake (Type 20HR, 20HQ) Laptop (ThinkPad) - Type 20HQ
@@ -105,6 +112,8 @@ Ja vielä tein reiän palomuurin porttiin komennolla $ sudo ufw allow 80/tcp.
 
 ![Screenshot 2024-09-17 162904](https://github.com/user-attachments/assets/121bbf9d-80f2-49af-8bd6-ea8bb97bf48a)
 
+Klo 15.50 
+
 Webbiselain auki ja testaus. Onnistuiko? Onnistui.
 
 ![Screenshot 2024-09-17 170501](https://github.com/user-attachments/assets/6b0b2f7d-65be-4f46-83c0-5dd720d7ee7e)
@@ -113,3 +122,6 @@ Webbiselain auki ja testaus. Onnistuiko? Onnistui.
 
 Karvinen, Tero. 11.9.2024. Oppitunti. Linux Palvelimet. 
 
+Tehtävänanto. Karvinen, Tero. Linux Palvelimet 2024 alkusyksy. 2022. Luettavissa: https://terokarvinen.com/linux-palvelimet/
+
+Karvinen, Tero. 2012. First Steps on a New Virtual Private Server - an Example on DigitalOcean and Ubuntu 1.04 LTS. Luettavissa: https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/
