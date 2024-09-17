@@ -44,7 +44,7 @@ GitHubin asetusten muuttamisen jälkeen pääsin lähettämään hakemuksen, jok
 
 Odotin Student Packin astuvan voimaan miltein heti, mutta todellisuudessa siihen olisi kulunut useampi päivä. Vielä 16.9. en ollut saanut kyseistä pakettia, joten jouduin tyytymään DigitalOceanin omaan tarjoukseen ($200 credittiä, 60pv). 
 
-16.9. klo 20:25 pääsin näin ollen siis vihdoin vuokraamaan virtuaalipalvelimen sivun ylälaidasta kohdasta "Create" ja "Droplet". Asetuksiksi valikoitui seuraavat:
+16.9. klo 20:25 aloin vihdoin vuokraamaan virtuaalipalvelimen sivun ylälaidasta kohdasta "Create" ja "Droplet". Asetuksiksi valikoitui seuraavat:
 - Region: Frankfurt
 - Image: Debian 12 x64
 - Size: Basic
