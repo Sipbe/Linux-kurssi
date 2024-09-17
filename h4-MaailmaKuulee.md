@@ -111,4 +111,5 @@ Webbiselain auki ja testaus. Onnistuiko? Onnistui.
 
 ## Lähteet
 
+Karvinen, Tero. 11.9.2024. Oppitunti. Linux Palvelimet. 
 
