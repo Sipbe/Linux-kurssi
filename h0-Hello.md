@@ -1,3 +1,3 @@
-# Hei weppi
+# Hello
 
 Eka tehtävä :)
