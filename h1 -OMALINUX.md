@@ -33,6 +33,7 @@
 Aloitin tehtävän latamaalla koneelleni Virtualboxin (https://www.virtualbox.org/wiki/Downloads) sekä Debian Live -levykuvan (https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/.
 
 Virtualboxin asennus sujui nopeasti ja sovelluksen avattuani pääsin luomaan virtuaalikoneen. Virtuaalikoneen luominen alkoi kohdasta "New", jonka jälkeen avautui "Create Virtual Machine" -ikkuna. Siirryin ikkunan alareunasta Expert Modeen, ja aloin täyttämään tarvittavia tietoja. Näihin tietoihin lukeutui mm. nimitiedot ja käyttöjärjestelmä sekä laitteistoon ja kovalevyyn liittyvät asetukset. 
+
 <img width="682" alt="Linux3" src="https://github.com/user-attachments/assets/d9889d02-eb77-49dd-a19e-359a2ba66685">
 
 <img width="680" alt="Linux4" src="https://github.com/user-attachments/assets/5ebbb98d-8ca7-4f26-b8a1-ef51496bd121">
@@ -44,6 +45,7 @@ Virtualboxin asennus sujui nopeasti ja sovelluksen avattuani pääsin luomaan vi
 Kun olin täyttänyt tarvittavat tiedot, loin virtuaalikoneen klikkaamalla painiketta "Finish".
 
 Seuraavaksi siirryin "Settings" -kohtaan Virtualbox Managerin kautta  ja valitsin kohdan "Storage". Valitsin "Empty" CD-levyn ja edelleen kohasta "Attributes" painoin uudestaan CD-levyä. Tähän kohtaan valitsin "debian-live..." -tiedoston ja klikkasin sen jälkeen kohdasta "OK" hyväksyäkseni muutokset.
+
 <img width="779" alt="Linux18" src="https://github.com/user-attachments/assets/6fe406a8-1da3-4733-a49b-e7d23bd31aad">
 
 <img width="664" alt="Linux2" src="https://github.com/user-attachments/assets/89501509-ac6a-4859-a17f-48af9e25d920">
