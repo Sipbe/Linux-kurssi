@@ -34,14 +34,18 @@ Aloitin tehtävän latamaalla koneelleni Virtualboxin (https://www.virtualbox.or
 
 Virtualboxin asennus sujui nopeasti ja sovelluksen avattuani pääsin luomaan virtuaalikoneen. Virtuaalikoneen luominen alkoi kohdasta "New", jonka jälkeen avautui "Create Virtual Machine" -ikkuna. Siirryin ikkunan alareunasta Expert Modeen, ja aloin täyttämään tarvittavia tietoja. Näihin tietoihin lukeutui mm. nimitiedot ja käyttöjärjestelmä sekä laitteistoon ja kovalevyyn liittyvät asetukset. 
 <img width="682" alt="Linux3" src="https://github.com/user-attachments/assets/d9889d02-eb77-49dd-a19e-359a2ba66685">
+
 <img width="680" alt="Linux4" src="https://github.com/user-attachments/assets/5ebbb98d-8ca7-4f26-b8a1-ef51496bd121">
+
 <img width="680" alt="Linux5" src="https://github.com/user-attachments/assets/eb94d394-aee0-4c97-b6a9-d49290f06c87">
+
 <img width="676" alt="Linux6" src="https://github.com/user-attachments/assets/ec517c62-d625-498a-bc63-142d29f4178a">
 
 Kun olin täyttänyt tarvittavat tiedot, loin virtuaalikoneen klikkaamalla painiketta "Finish".
 
 Seuraavaksi siirryin "Settings" -kohtaan Virtualbox Managerin kautta  ja valitsin kohdan "Storage". Valitsin "Empty" CD-levyn ja edelleen kohasta "Attributes" painoin uudestaan CD-levyä. Tähän kohtaan valitsin "debian-live..." -tiedoston ja klikkasin sen jälkeen kohdasta "OK" hyväksyäkseni muutokset.
 <img width="779" alt="Linux18" src="https://github.com/user-attachments/assets/6fe406a8-1da3-4733-a49b-e7d23bd31aad">
+
 <img width="664" alt="Linux2" src="https://github.com/user-attachments/assets/89501509-ac6a-4859-a17f-48af9e25d920">
 
 
@@ -50,6 +54,7 @@ Seuraavaksi siirryin "Settings" -kohtaan Virtualbox Managerin kautta  ja valitsi
 Asennuksen jälkeen siirryin virtuaalikoneeni käynnistysvaiheeseen. Virtuaalikoneen käynnistäminen tapahtui painamalla kohtaa "Start". Ruudulle avautuvasta "Boot Menu" -kohdasta valitsin "Live system (amd64)" vaihtoehdon. Valinnan jälkeen pääsin ensimmäistä kertaa Linuxini työpöydälle. 
 
 <img width="316" alt="Linux7" src="https://github.com/user-attachments/assets/3bd34c65-4d81-4f29-bcf3-954e73d88738">
+
 <img width="554" alt="Linux8" src="https://github.com/user-attachments/assets/7455891a-37b2-4d46-87c2-290c5c1c3b8e">
 
 Ensimmäisenä Linuxissa testasin sen toimivuutta selaimessa. Hakusanaksi selaimeen valitsin "Koira" ja se tuottikin onnistuneen lopputuloksen.
