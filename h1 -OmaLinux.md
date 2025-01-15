@@ -1,7 +1,5 @@
 # h1 - Oma Linux
 
-#### *Kuvat ja koneen tiedot sekä tehtävä x) päivitetty raporttiin 29.8.24
-
 ## *x) Lue ja tiivistä
 ### Raportin kirjoittaminen
 ##### (https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
@@ -22,7 +20,7 @@
 
 ## a) Asenna Linux virtuaalikoneeseen
 
-### *Koneen tiedot
+### Koneen tiedot
 - Device: X1 Carbon 5th Gen - Kabylake (Type 20HR, 20HQ) Laptop (ThinkPad) - Type 20HQ
 - Serial Number: PF105Q96
 - Processor:	Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz   2.71 GHz
