@@ -1,6 +1,6 @@
 # h1 - Oma Linux
 
-## *x) Lue ja tiivistä
+## x) Lue ja tiivistä
 ### Raportin kirjoittaminen
 ##### (https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
 - Raportin tulee olla selkeä sekä helposti ymmärrettävissä ja toistettavissa
