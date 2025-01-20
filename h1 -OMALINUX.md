@@ -1,14 +1,15 @@
-# h1 - Oma Linux
+# h1 - OMA LINUX
 
 ## x) Lue ja tiivistä
+
 ### Raportin kirjoittaminen
-##### (https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
+##### (Karvinen, Tero. 4.6.2006)
 - Raportin tulee olla selkeä sekä helposti ymmärrettävissä ja toistettavissa
 - On hyvä kertoa mikä onnistui, mikä ei onnistunut sekä miten ja missä ajassa testaaminen suoritettiin
 - Raportissa tulee viitata lähteisiin 
 - Raportin tulee olla todenmukainen ja aidosti omien tekojen ja ajatusten tuotos
 ### What is Free Software?
-##### (https://www.gnu.org/philosophy/free-sw.html)
+##### (GNU Operating System. 1.1.2024.)
 - Vapaalla ohjelmistolla tarkoitetaan sellaista ohjelmistoa, joka ei suinkaan välttämättä ole arvoltaan ilmainen, mutta sen sijaan vapaasti mm. muokattavissa, kopioitavissa ja myytävissä. Vapaaseen ohjelmistoon pääsee käsiksi siis kuka tahansa ja jokaisella on vapaat kädet ohjelmiston käsittelyn suhteen.
 - Jotta ohjelmistoa voidaan kutsua "vapaaksi ohjelmistoksi", on sen täytettävä riittävällä tasolla seuraavat neljä (4) vapautta:
   ##### 1) Vapaus suorittaa ohjelmaa haluamallaan tavalla haluamaansa tarkoitukseen.
@@ -92,6 +93,10 @@ Tämän jälkeen ruudulle ilmestyi sisäänkirjautuminen, jossa aikaisemmin täy
 
 
 # Lähteet
-Karvinen, Tero. 21.8.2024. Oppitunti. Linux Palvelimet.
+Karvinen, Tero. 14.1.2025. Oppitunti. Linux Palvelimet.
+
+Karvinen, Tero. 4.6.2006. Raportin kirjoittaminen. Luettavissa: https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
+
+GNU Operating System. 1.1.2024. What is Free Software? Luettavissa: https://www.gnu.org/philosophy/free-sw.html
 
 Karvinen, Tero. 2023. Install Debian on Virtualbox. Luettavissa: https://terokarvinen.com/2021/install-debian-on-virtualbox/
