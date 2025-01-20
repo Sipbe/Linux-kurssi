@@ -78,7 +78,7 @@ Seuraavaksi siirryin asentamaan Debianin klikkaamalla "Install Debian" -kuvakett
 
 "Partitions" -kohasta "Erase Disk".
 
-<img width="410" alt="Linux13" src="https://github.com/user-attachments/assets/e8bebb67-c8b2-44d8-8f6b-0c3a686828fe">
+<img width="407" alt="Linux13" src="https://github.com/user-attachments/assets/063e0677-d1e6-4631-9102-0eabe66dc1ba" />
 
 "Users" -kohassa täytin nimitiedot itsestäni ja koneesta sekä valitsin käyttäjälleni salasanan. 
 
