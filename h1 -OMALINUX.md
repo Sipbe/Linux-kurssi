@@ -51,31 +51,30 @@ Seuraavaksi siirryin "Settings" -kohtaan Virtualbox Managerin kautta  ja valitsi
 
 <img width="664" alt="Linux2" src="https://github.com/user-attachments/assets/89501509-ac6a-4859-a17f-48af9e25d920">
 
-
 ### Käynnistys
 
 Asennuksen jälkeen siirryin virtuaalikoneeni käynnistysvaiheeseen. Virtuaalikoneen käynnistäminen tapahtui painamalla kohtaa "Start". Ruudulle avautuvasta "Boot Menu" -kohdasta valitsin "Live system (amd64)" vaihtoehdon. Valinnan jälkeen pääsin ensimmäistä kertaa Linuxini työpöydälle. 
 
 <img width="316" alt="Linux7" src="https://github.com/user-attachments/assets/3bd34c65-4d81-4f29-bcf3-954e73d88738">
 
-<img width="554" alt="Linux8" src="https://github.com/user-attachments/assets/7455891a-37b2-4d46-87c2-290c5c1c3b8e">
+<img width="399" alt="Linux2" src="https://github.com/user-attachments/assets/fab3ea74-d55c-413a-b2b7-ce662cae2a51" />
 
 Ensimmäisenä Linuxissa testasin sen toimivuutta selaimessa. Hakusanaksi selaimeen valitsin "Koira" ja se tuottikin onnistuneen lopputuloksen.
 
-<img width="410" alt="Linux9" src="https://github.com/user-attachments/assets/2c903cc4-23c0-449e-8757-d9e9ccbc07e0">
+<img width="410" alt="Linux9" src="https://github.com/user-attachments/assets/01ec2803-9a65-45da-a1e1-ac42783bcfce" />
 
 Seuraavaksi siirryin asentamaan Debianin klikkaamalla "Install Debian" -kuvaketta:
 "Welcome" -kohdasta valitsin kieleksi englanti.
 
-<img width="416" alt="Linux10" src="https://github.com/user-attachments/assets/11db03c7-cbe2-4d0e-85e9-aadf31125918">
+<img width="413" alt="Linux10" src="https://github.com/user-attachments/assets/fee7f4be-24fd-4936-8201-ce9c5f370579" />
 
 "Location" -kohdasta valitsin "Helsinki".
 
-<img width="414" alt="Linux11" src="https://github.com/user-attachments/assets/b59afaa7-1070-469d-8a48-5f6baa3e3e98">
+<img width="411" alt="Linux11" src="https://github.com/user-attachments/assets/9d6ec5b0-74a6-46d0-ba9b-4de20a71929e" />
 
 "Keyboard" -kohdasta "Generic 105-key PC"; "Finnish" ja "Default".
 
-<img width="412" alt="Linux12" src="https://github.com/user-attachments/assets/cf7b1ed5-685f-451a-a995-18dc38737e75">
+<img width="411" alt="Linux12" src="https://github.com/user-attachments/assets/4a1298ee-afb5-41d5-8a99-477dba0b6676" />
 
 "Partitions" -kohasta "Erase Disk".
 
@@ -83,14 +82,13 @@ Seuraavaksi siirryin asentamaan Debianin klikkaamalla "Install Debian" -kuvakett
 
 "Users" -kohassa täytin nimitiedot itsestäni ja koneesta sekä valitsin käyttäjälleni salasanan. 
 
-<img width="415" alt="Linux14" src="https://github.com/user-attachments/assets/81b523cd-f8e0-4a72-bd4b-5965024713e2">
+<img width="413" alt="Linux14" src="https://github.com/user-attachments/assets/cc4272e9-be76-46bf-b0c0-63338794d930" />
 
 Tämän jälkeen ruudulle ilmestyi sisäänkirjautuminen, jossa aikaisemmin täyttämilläni tiedoilla pääsin kirjautumaan sisälle ja takaisin työpöydälleni.
 
 <img width="403" alt="Linux17" src="https://github.com/user-attachments/assets/b8c4e358-550c-4a42-a665-3cc19cd2d82e">
 
-<img width="452" alt="Linux16" src="https://github.com/user-attachments/assets/942480ad-ce58-40f2-8583-b7d85a37d242">
-
+<img width="402" alt="Linux18" src="https://github.com/user-attachments/assets/b6e8bbb5-f6f8-491e-81f3-82e9a1760897" />
 
 # Lähteet
 Karvinen, Tero. 14.1.2025. Oppitunti. Linux Palvelimet.
