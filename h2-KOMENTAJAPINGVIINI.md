@@ -3,7 +3,7 @@
 ## x) Lue ja tiivistä
 
 ### Command Line Basics Revisited
-https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
+(Karvinen, 3.2.2020)
 
 - Linuxin komentorivi on syntynyt jopa ennen internettiä ja se on jokapäiväiseen käyttöön erinomainen
 - Linuxin komentoriviä kuvaillaan käteväksi, nopeaksi, ilmeikkääksi sekä helpoksi automatisoida
@@ -14,16 +14,12 @@ https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%
 
 ## Koneen tiedot
 - Device: X1 Carbon 5th Gen - Kabylake (Type 20HR, 20HQ) Laptop (ThinkPad) - Type 20HQ
-- Serial Number: PF105Q96
 - Processor:	Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz   2.71 GHz
 - Installed RAM:	8,00 GB (7,84 GB usable)
 - Storage: 237GB
 - System type:	64-bit operating system, x64-based processor
-- Bios Version: N1MET37W 1.22
 
 ## Komentorivi-harjoitusten aloitus
-
-Tehtävänanto: https://terokarvinen.com/linux-palvelimet/
 
 Aloitin harjoitus 2:n käynnistämällä edellisessä tehtävässä luodun virtuaalikoneen. Sen jälkeen siirryin käyttöjärjestelmästä jo valmiiksi löytyvään terminaaliohjelmaan. Ensimmäisenä päivitin pakettilistan, jotta järjetelmä on varmasti ajan tasalla. Pakettilistan päivityksen tein komennolla:
 
@@ -153,5 +149,11 @@ lshw:n asennuksessa kesti Micron tapaan muutama sekunti ja sen jälkeen aiemmin 
 <img width="305" alt="Linux23" src="https://github.com/user-attachments/assets/b59a4910-2764-48d8-8db3-74ea83e9d034">
 
 lshw on siis ohjelma, joka tekee yhteenvedon koneen osista. Yllä kuvattu lista on mielestäni kattava ja kertoo kaiken tarvittavan tiedon koneesta.
+
+## Lähteet
+
+Karvinen, Tero. Command Line Basics Revisited. 3.2.2020. Luettavissa: https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
+
+Karvinen, Tero. Linux Palvelimet 2025. https://terokarvinen.com/linux-palvelimet/
 
 
