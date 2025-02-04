@@ -19,18 +19,14 @@ https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-
 
 ## Koneen tiedot
 - Device: X1 Carbon 5th Gen - Kabylake (Type 20HR, 20HQ) Laptop (ThinkPad) - Type 20HQ
-- Serial Number: PF105Q96
 - Processor:	Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz   2.71 GHz
 - Installed RAM:	8,00 GB (7,84 GB usable)
 - Storage: 237GB
 - System type:	64-bit operating system, x64-based processor
-- Bios Version: N1MET37W 1.22
 
 ## a) Localhost testaus
 
-Localhostin testaus ei tuottanut haluttua lopputulosta ei sitten millään. 
-
-Aloitin Apache2:n asennuksen tutustumalla siihen liittyviin ohjeistuksiin. Löysnkin netistä asenukkseen ohjeistuksen (https://reintech.io/blog/installing-apache-on-debian-12-step-by-step-guide), jonka pohjalta tein asennuksen. Apache2:n asennus sujui mutkattomasti ja testasin myös, että se on toiminnassa. Tässä kohtaa kaikki vaikutti vielä olevan kuten pitääkin. Apache2:n asennukseen käytin seuraavaa komentoa:
+Aloitin Apache2:n asennuksen tutustumalla siihen liittyviin ohjeistuksiin. Löysinkin netistä asenukseen ohjeistuksen (https://reintech.io/blog/installing-apache-on-debian-12-step-by-step-guide), jonka pohjalta tein asennuksen. Apache2:n asennus sujui mutkattomasti ja testasin myös, että se on toiminnassa. Apache2:n asennukseen käytin seuraavaa komentoa:
 
 #### sudo apt-get -y install apache2
 
@@ -38,26 +34,29 @@ Aloitin Apache2:n asennuksen tutustumalla siihen liittyviin ohjeistuksiin. Löys
 
 ![Screenshot 2024-09-08 180112](https://github.com/user-attachments/assets/b1690df8-a551-4209-9754-6ae45f99336d)
 
-Kun menin katsomaan localhostiani, tuli ruudulle Apache Deafult pagen sijaan teksti "Forbidden...". 
+Seuraavaksi siirryin selaimella katsomaan, miltä localhost näyttää ja tässä tulos:
 
-![Screenshot 2024-09-09 203236](https://github.com/user-attachments/assets/41489ab5-a9d8-4b60-8d08-749eb7345101)
-
-Lähdin selvittämään ongelmaa netistä löytyvien ohjeiden avulla, jotka olivat kuitenkin minulle hieman haastavia tulkita. Osoitteesta https://www.slingacademy.com/article/apache-forbidden-error-permission-denied/?utm_content=cmp-true löysin kuitekin selkeämmän ja vaiheittain ongelman ratkaisua selittävän ohjeen, jonka kolmea eri ratkaisuvaihtoehtoa lähdin testaamaan. Näiden ohjeiden mukaisesti kuitenkin kaikki näytti olevan kunnossa, eikä ratkaisua ongelmaani löytynyt kyseistä kautta.
-Omat taitoni eivät siis riittäneet ratkaisemaan ongelmaa enkä löytänyt netistäkään selkeää vastausta ongelmaani. 
+![Screenshot 2025-02-04 184652](https://github.com/user-attachments/assets/3f9856ec-9b36-45e7-a45f-6c25eb4dbf9f)
 
 ## b) Lokin rivit
 
-Ongelmastani huolimatta päätin perehtyä myös osion muihin tehtäviin siltä osin kuin pystyin. Seuraavaksi suoritinkin komennot
+Seuraavaksi siirryin lokien pariin ja suoritin komennot:
+
 #### sudo tail /var/log/apache2/acces.log
 sekä
 #### sudo tail /var/log/apache2/error.log
 
 Näillä kyseisillä komennoilla oli tarkoitus tutkia lokia. 
 
-![Screenshot 2024-09-08 181318](https://github.com/user-attachments/assets/2c267103-fe55-4ee4-993d-40df5157de97)
+Access.log:
+![Screenshot 2025-02-04 190929](https://github.com/user-attachments/assets/7dccc8ff-2e08-4bce-9ee4-77806053e441)
 
-Ensimmäinen komento näyttää, että palvelinta on kutsuttu GET-pyynnöllä klo 18:02:45 8.9.2024.
-Toinen komento puolestaan näyttää, onko palvelimella ollut virhetilanteita tai onko palvelimen toiminnassa ollut jotain normaalista poikkeavaa. Omassa tapauksessani kaikki näyttäisi olevan kunnossa lokin osalta.
+Access.Log:in jokainen rivi noudattaa seuraavanlaista kaavaa:
+#### IP_ADDRESS - [DATE & TIME] "REQUEST_METHOD RESOURCE HTTP_VERSION" STATUS_CODE RESPONSE_SIZE "REFERRER" "USER AGENT"
+
+Error.log:
+![Screenshot 2025-02-04 191031](https://github.com/user-attachments/assets/15abd556-4f9c-4a0e-8918-5d05a3ec0e2b)
+
 
 ## c) Etusivu uusiksi
 
