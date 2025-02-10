@@ -88,7 +88,7 @@ Seuraavaksi siirryin luomaan käyttäjätunnuksen komennolla $ sudo adduser siir
 
 Ja heti perään tein käyttäjästä sudokäyttäjän komennolla $ sudo adduser siiri sudo sekä testasin uusien tunnuksien toimivuutta toisessa terminaalissa komennolla $ ssh siiri@206.189.49.237
 
-![Screenshot 2024-09-17 160753](https://github.com/user-attachments/assets/a84a5f4d-30b4-4b20-9c40-54e55ae5bad6)
+<img width="557" alt="Näyttökuva 2025-02-10 kello 15 38 34" src="https://github.com/user-attachments/assets/9d2d9288-bfa4-481c-9419-9cd4ca14e1da" />
 
 Ja sehän onnistui hienosti! Onnistuneen testauksen jälkeen suljin root-käyttäjäni komennolla $sudo usermod --lock root. Poistin myös käytöstä root sisäänkirjautumisen ssh:ssa komennolla /etc/ssh/sshd_config -> PermitRootLogin Yes -> No. Ja lopuksi vielä käynnistin uudelleen ssh:n, jotta asetukset astuvat voimaan komennolla $ sudo service ssh restart.
 
